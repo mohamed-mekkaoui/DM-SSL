@@ -442,11 +442,3 @@ if __name__ == "__main__":
     
     print("\n" + "="*70)
     print("  ✅ TOUS LES TESTS TERMINÉS!")
-    print("="*70)
-    print("\n📝 RÉSUMÉ:")
-    print("   - Algorithme Fuzzy C-Means implémenté from scratch")
-    print("   - Support images niveaux de gris et couleur")
-    print("   - Visualisation avec heatmaps des degrés d'appartenance")
-    print("   - Comparaison de différentes valeurs de K")
-    print("   - Résultats sauvegardés en fichiers PNG")
-    print("="*70 + "\n")
